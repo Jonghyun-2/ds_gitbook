@@ -1,3 +1,2 @@
-# Introduction
+# Initial page
 
-# ds_gitbook
